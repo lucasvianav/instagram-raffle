@@ -1,3 +1,8 @@
+credentials.json
+secrets.py
+geckodriver.log
+screenshots/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
